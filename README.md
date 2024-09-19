@@ -1,7 +1,9 @@
-To-Do List Web App
+# To-Do List Web App
+
 This is a simple and interactive To-Do List application built using HTML, CSS, and JavaScript during my web development internship with CodeAlpha. The web app allows users to add, edit, and delete tasks and organizes them into different categories such as "All", "Pending", and "Completed" tasks.
 
-Features:
+## Features:
+
 Add Tasks: Users can input new tasks, and they will be added to the list of tasks.
 Edit Tasks: Users can modify the tasks they have already added.
 Delete Tasks: Users can remove tasks from the list.
@@ -12,16 +14,21 @@ Completed: Displays only the completed tasks.
 Deployment
 This project is deployed using GitHub Pages and can be accessed through the following link:
 
-To-Do List Web App
+https://meddhiachaouachi.github.io/CodeAlpha_TO_DO_LIST/
 
-Installation
+## Installation
+
 To run this project locally, follow these steps:
 
 Clone the repository:
 
 bash
 Copier le code
+
+```bash
 git clone https://github.com/meddhiachaouachi/CodeAlpha_TO_DO_LIST.git
+```
+
 Open the index.html file in your browser.
 
 Technologies Used:
